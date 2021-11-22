@@ -1,5 +1,9 @@
 
-## Reading files & rbind
+## This project is a demonstration of PRICING DATA ANALYSIS, MODEL MAKING, HANDLING DATA done completely in R which includes dealing with null values, Imputation, outliers, ##categorical/numerical variables, normalization, factorizing, classifying, Correlation, plotting, skewing, splitting datasets. Models demonstrated are Linear regression, Random ##forest, Clustering, Dendrogram, K-mean method, Lasso Regression, xgboost, neural networks. Library packages such as ggplot, plyr, dplyr, purrr, tidyr, ggplot2, glmnet, caret, ##dummies, string, corrplot, rpart, rpart.plot, randomForest, neuralnet. 
+## This is for educational purposes to demonstrate the skills learned on R, Data analysis, Model.
+
+
+#Reading files & rbind
 
 training_data = read.csv(file = file.path("train.csv"))
 test_data = read.csv(file = file.path("test.csv"))
