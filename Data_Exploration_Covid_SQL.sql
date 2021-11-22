@@ -1,3 +1,8 @@
+-- This is for educational purpose, demonstration of the learnt concepts such as Temp table, CTE, Join,View, Insert, DROP, Create, Sum ,Cast, Convert, Group by ,
+--order by, Where, alias and other aggregate functions aswell.
+
+
+
 -- Dataset owid-coid-data.csv has been split into CovidDeath & CovidVaccination 
 
 ---Performing where & orderby & and
